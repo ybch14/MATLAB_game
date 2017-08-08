@@ -1,4 +1,4 @@
-# MATLAB project : music
+# MATLAB project : game
 
 This is a course project of Advanced MATLAB Programming and Engineering Applications of Department of EE., Tsinghua University. There are two subtasks: linkgame ai design; play linkgame automatically on another computer using image frequency analysis. More details can be found in ```questions.pdf```.
 
